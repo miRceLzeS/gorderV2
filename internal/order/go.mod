@@ -5,9 +5,9 @@ go 1.22.8
 replace github.com/miRceLzeS/gorder-v2/common => ../common
 
 require (
-	github.com/miRceLzeS/gorder-v2/common v0.0.0-00010101000000-000000000000
 	github.com/gin-gonic/gin v1.10.0
 	github.com/golang/protobuf v1.5.4
+	github.com/miRceLzeS/gorder-v2/common v0.0.0-00010101000000-000000000000
 	github.com/oapi-codegen/runtime v1.1.1
 	github.com/pkg/errors v0.9.1
 	github.com/rabbitmq/amqp091-go v1.10.0
